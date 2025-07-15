@@ -5,7 +5,6 @@ class Solution:
         result = []
 
         for x in nums1:
-            found = False
             next_greater = -1
             for i in range(len(nums2)):
                 if nums2[i] == x:
