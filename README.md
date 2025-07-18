@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Murali3824/DSA-leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Murali3824/DSA-leetcode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Murali3824/DSA-leetcode/tree/master/0189-rotate-array) |
+| [0239-sliding-window-maximum](https://github.com/Murali3824/DSA-leetcode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Murali3824/DSA-leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Murali3824/DSA-leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Murali3824/DSA-leetcode/tree/master/0485-max-consecutive-ones) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Murali3824/DSA-leetcode/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/Murali3824/DSA-leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Murali3824/DSA-leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Murali3824/DSA-leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/Murali3824/DSA-leetcode/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -258,4 +261,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Murali3824/DSA-leetcode/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/Murali3824/DSA-leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/Murali3824/DSA-leetcode/tree/master/2227-sum-of-subarray-ranges) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Murali3824/DSA-leetcode/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Murali3824/DSA-leetcode/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
