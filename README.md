@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Murali3824/DSA-leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Murali3824/DSA-leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Murali3824/DSA-leetcode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Murali3824/DSA-leetcode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/Murali3824/DSA-leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Murali3824/DSA-leetcode/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/Murali3824/DSA-leetcode/tree/master/0402-remove-k-digits) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Murali3824/DSA-leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Murali3824/DSA-leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Murali3824/DSA-leetcode/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/Murali3824/DSA-leetcode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/Murali3824/DSA-leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Murali3824/DSA-leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Murali3824/DSA-leetcode/tree/master/0451-sort-characters-by-frequency) |
