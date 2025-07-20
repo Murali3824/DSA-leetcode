@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Murali3824/DSA-leetcode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Murali3824/DSA-leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Murali3824/DSA-leetcode/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/Murali3824/DSA-leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Murali3824/DSA-leetcode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Murali3824/DSA-leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0874-backspace-string-compare](https://github.com/Murali3824/DSA-leetcode/tree/master/0874-backspace-string-compare) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Murali3824/DSA-leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Murali3824/DSA-leetcode/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Murali3824/DSA-leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/Murali3824/DSA-leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Murali3824/DSA-leetcode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Murali3824/DSA-leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0778-reorganize-string](https://github.com/Murali3824/DSA-leetcode/tree/master/0778-reorganize-string) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Murali3824/DSA-leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Murali3824/DSA-leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Murali3824/DSA-leetcode/tree/master/0496-next-greater-element-i) |
+| [0567-permutation-in-string](https://github.com/Murali3824/DSA-leetcode/tree/master/0567-permutation-in-string) |
 | [0778-reorganize-string](https://github.com/Murali3824/DSA-leetcode/tree/master/0778-reorganize-string) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Murali3824/DSA-leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Binary Search
@@ -313,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Murali3824/DSA-leetcode/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Murali3824/DSA-leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/Murali3824/DSA-leetcode/tree/master/0567-permutation-in-string) |
 ## Monotonic Queue
 |  |
 | ------- |
