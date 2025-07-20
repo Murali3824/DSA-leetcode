@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Murali3824/DSA-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Murali3824/DSA-leetcode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Murali3824/DSA-leetcode/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/Murali3824/DSA-leetcode/tree/master/0443-string-compression) |
 | [0874-backspace-string-compare](https://github.com/Murali3824/DSA-leetcode/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/Murali3824/DSA-leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Murali3824/DSA-leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Murali3824/DSA-leetcode/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/Murali3824/DSA-leetcode/tree/master/0402-remove-k-digits) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Murali3824/DSA-leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0443-string-compression](https://github.com/Murali3824/DSA-leetcode/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Murali3824/DSA-leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0778-reorganize-string](https://github.com/Murali3824/DSA-leetcode/tree/master/0778-reorganize-string) |
 | [0812-rotate-string](https://github.com/Murali3824/DSA-leetcode/tree/master/0812-rotate-string) |
