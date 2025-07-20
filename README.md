@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Murali3824/DSA-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Murali3824/DSA-leetcode/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Murali3824/DSA-leetcode/tree/master/0392-is-subsequence) |
+| [0874-backspace-string-compare](https://github.com/Murali3824/DSA-leetcode/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/Murali3824/DSA-leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Murali3824/DSA-leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Murali3824/DSA-leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Murali3824/DSA-leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0778-reorganize-string](https://github.com/Murali3824/DSA-leetcode/tree/master/0778-reorganize-string) |
 | [0812-rotate-string](https://github.com/Murali3824/DSA-leetcode/tree/master/0812-rotate-string) |
+| [0874-backspace-string-compare](https://github.com/Murali3824/DSA-leetcode/tree/master/0874-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/Murali3824/DSA-leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Murali3824/DSA-leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Murali3824/DSA-leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Murali3824/DSA-leetcode/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/Murali3824/DSA-leetcode/tree/master/0735-asteroid-collision) |
+| [0874-backspace-string-compare](https://github.com/Murali3824/DSA-leetcode/tree/master/0874-backspace-string-compare) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Murali3824/DSA-leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Union Find
 |  |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Murali3824/DSA-leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Murali3824/DSA-leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Murali3824/DSA-leetcode/tree/master/0735-asteroid-collision) |
+| [0874-backspace-string-compare](https://github.com/Murali3824/DSA-leetcode/tree/master/0874-backspace-string-compare) |
 | [0937-online-stock-span](https://github.com/Murali3824/DSA-leetcode/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Murali3824/DSA-leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1078-remove-outermost-parentheses](https://github.com/Murali3824/DSA-leetcode/tree/master/1078-remove-outermost-parentheses) |
