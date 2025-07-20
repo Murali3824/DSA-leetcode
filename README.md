@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Murali3824/DSA-leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Murali3824/DSA-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Murali3824/DSA-leetcode/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/Murali3824/DSA-leetcode/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/Murali3824/DSA-leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Murali3824/DSA-leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Murali3824/DSA-leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Murali3824/DSA-leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Murali3824/DSA-leetcode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Murali3824/DSA-leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/Murali3824/DSA-leetcode/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/Murali3824/DSA-leetcode/tree/master/0402-remove-k-digits) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Murali3824/DSA-leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Murali3824/DSA-leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Murali3824/DSA-leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Murali3824/DSA-leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Murali3824/DSA-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/Murali3824/DSA-leetcode/tree/master/0392-is-subsequence) |
 | [0943-sum-of-subarray-minimums](https://github.com/Murali3824/DSA-leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/Murali3824/DSA-leetcode/tree/master/1013-fibonacci-number) |
 ## Recursion
