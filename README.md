@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Murali3824/DSA-leetcode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Murali3824/DSA-leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Murali3824/DSA-leetcode/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/Murali3824/DSA-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Murali3824/DSA-leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Murali3824/DSA-leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Murali3824/DSA-leetcode/tree/master/0503-next-greater-element-ii) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Murali3824/DSA-leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Murali3824/DSA-leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Murali3824/DSA-leetcode/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/Murali3824/DSA-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Murali3824/DSA-leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Murali3824/DSA-leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Murali3824/DSA-leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Murali3824/DSA-leetcode/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/Murali3824/DSA-leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Murali3824/DSA-leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Murali3824/DSA-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Murali3824/DSA-leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0778-reorganize-string](https://github.com/Murali3824/DSA-leetcode/tree/master/0778-reorganize-string) |
 ## Divide and Conquer
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Murali3824/DSA-leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Murali3824/DSA-leetcode/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Murali3824/DSA-leetcode/tree/master/0148-sort-list) |
+| [0347-top-k-frequent-elements](https://github.com/Murali3824/DSA-leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Simulation
 |  |
 | ------- |
@@ -264,15 +268,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Murali3824/DSA-leetcode/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/Murali3824/DSA-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Murali3824/DSA-leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0778-reorganize-string](https://github.com/Murali3824/DSA-leetcode/tree/master/0778-reorganize-string) |
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Murali3824/DSA-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Murali3824/DSA-leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Murali3824/DSA-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Murali3824/DSA-leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Murali3824/DSA-leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0778-reorganize-string](https://github.com/Murali3824/DSA-leetcode/tree/master/0778-reorganize-string) |
@@ -342,4 +349,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Murali3824/DSA-leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Murali3824/DSA-leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
