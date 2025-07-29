@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Murali3824/DSA-leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Murali3824/DSA-leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Murali3824/DSA-leetcode/tree/master/0067-add-binary) |
+| [0076-minimum-window-substring](https://github.com/Murali3824/DSA-leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Murali3824/DSA-leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Murali3824/DSA-leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Murali3824/DSA-leetcode/tree/master/0205-isomorphic-strings) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Murali3824/DSA-leetcode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Murali3824/DSA-leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Murali3824/DSA-leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/Murali3824/DSA-leetcode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Murali3824/DSA-leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/Murali3824/DSA-leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Murali3824/DSA-leetcode/tree/master/0146-lru-cache) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Murali3824/DSA-leetcode/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/Murali3824/DSA-leetcode/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Murali3824/DSA-leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Murali3824/DSA-leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
