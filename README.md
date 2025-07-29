@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Murali3824/DSA-leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Murali3824/DSA-leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Murali3824/DSA-leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Murali3824/DSA-leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Murali3824/DSA-leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Murali3824/DSA-leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Murali3824/DSA-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Murali3824/DSA-leetcode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Murali3824/DSA-leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Murali3824/DSA-leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Murali3824/DSA-leetcode/tree/master/0268-missing-number) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Murali3824/DSA-leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
@@ -387,4 +389,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Murali3824/DSA-leetcode/tree/master/0347-top-k-frequent-elements) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Murali3824/DSA-leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
