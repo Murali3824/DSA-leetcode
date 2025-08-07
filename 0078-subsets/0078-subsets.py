@@ -12,11 +12,9 @@ class Solution:
         # return ans
 
         def backtrack(start, path):
-            ans.append(path[:])  # store a copy of the current path
-            for i in range(start, len(nums)):
-                path.append(nums[i])           # include nums[i]
-                backtrack(i + 1, path)         # move to next index
-                path.pop()                     # backtrack (remove last)
-
+            ans.append(path)
+            for i in range(start, n):
+                backtrack(i + 1, path + [nums[i]])
+                
         backtrack(0, [])
         return ans
