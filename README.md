@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Murali3824/DSA-leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Murali3824/DSA-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Murali3824/DSA-leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Murali3824/DSA-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Murali3824/DSA-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Murali3824/DSA-leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Murali3824/DSA-leetcode/tree/master/0443-string-compression) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Murali3824/DSA-leetcode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Murali3824/DSA-leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Murali3824/DSA-leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Murali3824/DSA-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Murali3824/DSA-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Murali3824/DSA-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Murali3824/DSA-leetcode/tree/master/0485-max-consecutive-ones) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Murali3824/DSA-leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Murali3824/DSA-leetcode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/Murali3824/DSA-leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Murali3824/DSA-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Murali3824/DSA-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Murali3824/DSA-leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Murali3824/DSA-leetcode/tree/master/0792-binary-search) |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Murali3824/DSA-leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Murali3824/DSA-leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Murali3824/DSA-leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Murali3824/DSA-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Murali3824/DSA-leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Sorting
 |  |
