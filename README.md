@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Murali3824/DSA-leetcode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Murali3824/DSA-leetcode/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/Murali3824/DSA-leetcode/tree/master/0216-combination-sum-iii) |
+| [0217-contains-duplicate](https://github.com/Murali3824/DSA-leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Murali3824/DSA-leetcode/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/Murali3824/DSA-leetcode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Murali3824/DSA-leetcode/tree/master/0268-missing-number) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Murali3824/DSA-leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Murali3824/DSA-leetcode/tree/master/0146-lru-cache) |
 | [0205-isomorphic-strings](https://github.com/Murali3824/DSA-leetcode/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/Murali3824/DSA-leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Murali3824/DSA-leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Murali3824/DSA-leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Murali3824/DSA-leetcode/tree/master/0268-missing-number) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Murali3824/DSA-leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Murali3824/DSA-leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Murali3824/DSA-leetcode/tree/master/0148-sort-list) |
+| [0217-contains-duplicate](https://github.com/Murali3824/DSA-leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Murali3824/DSA-leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Murali3824/DSA-leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Murali3824/DSA-leetcode/tree/master/0268-missing-number) |
