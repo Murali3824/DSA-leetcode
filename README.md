@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Murali3824/DSA-leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Murali3824/DSA-leetcode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Murali3824/DSA-leetcode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Murali3824/DSA-leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Murali3824/DSA-leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Murali3824/DSA-leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Murali3824/DSA-leetcode/tree/master/0242-valid-anagram) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Murali3824/DSA-leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Murali3824/DSA-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Murali3824/DSA-leetcode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Murali3824/DSA-leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Murali3824/DSA-leetcode/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/Murali3824/DSA-leetcode/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Murali3824/DSA-leetcode/tree/master/0647-palindromic-substrings) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Murali3824/DSA-leetcode/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/Murali3824/DSA-leetcode/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Murali3824/DSA-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Murali3824/DSA-leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Murali3824/DSA-leetcode/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/Murali3824/DSA-leetcode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Murali3824/DSA-leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Murali3824/DSA-leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Murali3824/DSA-leetcode/tree/master/0162-find-peak-element) |
@@ -194,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Murali3824/DSA-leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Murali3824/DSA-leetcode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Murali3824/DSA-leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/Murali3824/DSA-leetcode/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/Murali3824/DSA-leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Murali3824/DSA-leetcode/tree/master/0146-lru-cache) |
 | [0205-isomorphic-strings](https://github.com/Murali3824/DSA-leetcode/tree/master/0205-isomorphic-strings) |
@@ -327,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Murali3824/DSA-leetcode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/Murali3824/DSA-leetcode/tree/master/0139-word-break) |
 ## String Matching
 |  |
 | ------- |
