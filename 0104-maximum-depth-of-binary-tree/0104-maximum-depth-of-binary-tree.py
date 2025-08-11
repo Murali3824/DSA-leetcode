@@ -12,11 +12,8 @@ class Solution:
         queue = deque([root])
         height = 0
         while queue:
-            level = []
             for _ in range(len(queue)):
                 node = queue.popleft()
-                level.append(node.val)
-
                 if node.left:
                     queue.append(node.left)
                 if node.right:
