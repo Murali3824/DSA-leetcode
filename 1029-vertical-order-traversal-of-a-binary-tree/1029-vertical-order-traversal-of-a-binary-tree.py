@@ -4,7 +4,6 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
-from collections import defaultdict, deque
 class Solution:
     def verticalTraversal(self, root):
         nodes = []  # (col, row, val)
