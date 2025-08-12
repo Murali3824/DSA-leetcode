@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/Murali3824/DSA-leetcode/tree/master/0778-reorganize-string) |
 | [0940-fruit-into-baskets](https://github.com/Murali3824/DSA-leetcode/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Murali3824/DSA-leetcode/tree/master/0966-binary-subarrays-with-sum) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Murali3824/DSA-leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Murali3824/DSA-leetcode/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Murali3824/DSA-leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Murali3824/DSA-leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Murali3824/DSA-leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Murali3824/DSA-leetcode/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/Murali3824/DSA-leetcode/tree/master/0778-reorganize-string) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Murali3824/DSA-leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -482,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Murali3824/DSA-leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Murali3824/DSA-leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Murali3824/DSA-leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Murali3824/DSA-leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -499,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Murali3824/DSA-leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Murali3824/DSA-leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Murali3824/DSA-leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Murali3824/DSA-leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -509,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Murali3824/DSA-leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Murali3824/DSA-leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Murali3824/DSA-leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Murali3824/DSA-leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -516,4 +521,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Murali3824/DSA-leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Murali3824/DSA-leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Murali3824/DSA-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Murali3824/DSA-leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
