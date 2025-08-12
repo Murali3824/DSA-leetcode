@@ -4,6 +4,7 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
+from collections import defaultdict, deque
 class Solution:
     def verticalTraversal(self, root):
         nodes = []  # (col, row, val)
@@ -19,7 +20,7 @@ class Solution:
                 queue.append((node.right, row+1, col+1))
         
         # Sort: col, then row, then value
-        nodes.sort()
+        nodes.sort(key=lambda x: (x[0], x[1], x[2]))
         
         # Group by col
         col_table = defaultdict(list)
@@ -27,6 +28,6 @@ class Solution:
             col_table[col].append(val)
         
         # Return in col order
-        return [col_table[x] for x in (col_table)]
+        return [col_table[x] for x in sorted(col_table)]
 
         
