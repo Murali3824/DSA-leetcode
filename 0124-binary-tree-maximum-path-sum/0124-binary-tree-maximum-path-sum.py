@@ -16,5 +16,3 @@ class Solution:
             return node.val + max(left_sum,right_sum)
         dfs(root)
         return self.ans
-
-        return node.val + max(left_sum,right)
