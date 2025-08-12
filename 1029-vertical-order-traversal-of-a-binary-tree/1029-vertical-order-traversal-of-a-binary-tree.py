@@ -27,6 +27,6 @@ class Solution:
             col_table[col].append(val)
         
         # Return in col order
-        return [col_table[x] for x in col_table]
+        return [col_table[x] for x in sorted(col_table)]
 
         
