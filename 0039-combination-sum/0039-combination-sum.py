@@ -1,15 +1,23 @@
 class Solution:
     def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
-        res = []
-        def backtrack(start,total,path):
-            if total == target:
-                res.append(path[:])
+        result = []
+
+        def backtrack(index, path, current_sum):
+            if current_sum == target:
+                result.append(path[:])
                 return
-            if total > target:
+            if current_sum > target or index == len(candidates):
                 return
-            for i in range(start,len(candidates)):
-                path.append(candidates[i])
-                backtrack(i,total+candidates[i],path)
-                path.pop()
-        backtrack(0,0,[])
-        return res
+
+            # Include current element
+            path.append(candidates[index])
+            current_sum += candidates[index]   # add before recursive call
+            backtrack(index, path, current_sum)
+            current_sum -= candidates[index]   # subtract while backtracking
+            path.pop()                         # backtrack
+
+            # Exclude current element
+            backtrack(index + 1, path, current_sum)
+
+        backtrack(0, [], 0)
+        return result
