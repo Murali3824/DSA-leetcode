@@ -10,20 +10,22 @@ class Solution:
         
         #Compute The length
         curr = head
-        length = 1
-        while curr.next:
+        length = 0
+        last = None
+        while curr:
+            last = curr
             curr = curr.next
             length+=1
 
-        curr.next = head #Make the list Circular
+        last.next = head #Make the list Circular
 
         #Find the Tail
         k = length - (k%length)
         while k:
-            curr = curr.next
+            last = last.next
             k-=1
 
         #Break the circle and return the New Head
-        newHead = curr.next
-        curr.next = None
+        newHead = last.next
+        last.next = None
         return newHead
