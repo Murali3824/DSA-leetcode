@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Murali3824/DSA-leetcode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Murali3824/DSA-leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Murali3824/DSA-leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Murali3824/DSA-leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Murali3824/DSA-leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Murali3824/DSA-leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Murali3824/DSA-leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Murali3824/DSA-leetcode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Murali3824/DSA-leetcode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Murali3824/DSA-leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Murali3824/DSA-leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Murali3824/DSA-leetcode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Murali3824/DSA-leetcode/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Murali3824/DSA-leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Murali3824/DSA-leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Murali3824/DSA-leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Murali3824/DSA-leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Murali3824/DSA-leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Murali3824/DSA-leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Murali3824/DSA-leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Murali3824/DSA-leetcode/tree/master/0229-majority-element-ii) |
