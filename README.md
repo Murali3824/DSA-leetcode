@@ -576,5 +576,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0595-big-countries](https://github.com/Murali3824/DSA-leetcode/tree/master/0595-big-countries) |
+| [1068-product-sales-analysis-i](https://github.com/Murali3824/DSA-leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Murali3824/DSA-leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
